@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Menu(props) {
+const Menu = (props) => {
     return (
-    <li className="list-group-item">{props.menu} one</li>
+        <li className="list-group-item">{props.menu} one</li>
     )
 }
 

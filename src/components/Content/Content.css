@@ -1,0 +1,22 @@
+.btn-round {
+    background-color: green;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.row-custom {
+    margin-top: 4rem;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
